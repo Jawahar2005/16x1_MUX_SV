@@ -1,0 +1,6 @@
+`include "signals.svh"
+`include "clock_generation.sv"
+`include "reset_generation.sv"
+`include "stimulus.sv"
+`include "compare.sv"
+`include "reset_test.sv"
